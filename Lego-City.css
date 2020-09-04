@@ -1,0 +1,20 @@
+body {
+    background-color: #eaeaea;
+}
+#black {
+    flex-wrap: wrap;
+    display: flex;
+    width: 556px;
+    margin: 50px auto;
+}
+.box {
+    height: 115px;
+    width: 115px;
+    background-color: #2f2f2f;
+    margin: 12px;
+}
+.Bye {
+    height: 115px;
+    width: 115px;
+    background-color: #8f8f8f;
+}
